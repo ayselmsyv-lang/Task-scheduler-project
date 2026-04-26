@@ -1,13 +1,11 @@
 """
-main.py — Tək giriş nöqtəsi.
-
 İstifadə:
-  python main.py                  # Default demo (mixed workload)
+  python main.py                
   python main.py --workload mixed
   python main.py --workload uniform
   python main.py --workload burst
   python main.py --workers 4 --fast 40 --slow 10
-  python main.py --test           # Testləri işlət
+  python main.py --test      
 """
 
 import sys
